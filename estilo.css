@@ -1,0 +1,13 @@
+.container{
+	width: 500px;
+	margin: 0 auto;
+	background: lightblue;
+	margin-top: 150px;
+	padding: 15px;	
+}
+
+form{
+	display: block;
+	align-content: center;
+
+}
